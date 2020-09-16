@@ -21,4 +21,6 @@ Step 6: Insert App.js component into the DOM
 
 Step 7: Add scripts and browserslist in the package.json
 
-Step 8: npm start
+Step 8: npm install
+
+Step 9: npm start
